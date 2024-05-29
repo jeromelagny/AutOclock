@@ -41,10 +41,10 @@ Toutes les étapes sont à réaliser sur votre environnement Linux.
 2. Dans le terminal, exécutez la commande suivante :
 
     ```bash
-    cp -r ~/AutOclock ~/.config/autokey/data/
+    sudo cp -r ~/AutOclock ~/.config/autokey/data/
     ```
 
-    Cette commande copie le dossier AutOclock dans le répertoire de configuration d'AutoKey. À la fin de la copie, il est possible qu'AutoKey affiche un message pour vous informer qu'un nouveau dossier a été ajouté à sa configuration. Il vous suffira de valider ce message.
+    Cette commande copie le dossier AutOclock dans le répertoire de configuration d'AutoKey. Il est possible que l'on vous demande votre mot de passe ; entrez celui que vous utilisez pour accéder à votre machine virtuelle. À la fin de la copie, il est possible qu'AutoKey affiche un message pour vous informer qu'un nouveau dossier a été ajouté à sa configuration. Il vous suffira de valider ce message.
 
 ## Étape 3 : Ajouter AutoKey au Démarrage de Linux 😎
 
