@@ -24,7 +24,7 @@ Toutes les étapes sont à réaliser sur votre environnement Linux.
 
     Cette commande exécute le programme Autokey en arrière-plan. Il s'agit d'une étape cruciale, car sans cela, l'étape 2.2 échouera.
 
-Laissez ce terminal ouvert et ouvrez un autre terminal pour continuer le guide.
+    Laissez ce terminal ouvert et ouvrez un autre terminal pour continuer le guide.
 
 ## Étape 2 : Télécharger et Ajouter le dossier AutOclock 😜
 
