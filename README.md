@@ -1,6 +1,6 @@
 # Guide d'Installation et de Configuration d'AutoKey
 
-Ce guide est conçu pour les utilisateurs de MacOS qui utilisent une machine virtuelle Linux et qui éprouvent des difficultés avec certains caractères spéciaux tels que les accolades, les antislash, les crochets, le pipe et le tilde.
+Ce guide est destiné aux utilisateurs de Mac qui, utilisant une machine virtuelle Linux, éprouvent des difficultés avec les raccourcis pour afficher certains caractères spéciaux comme les accolades, les antislash, les crochets, le pipe et le tilde.
 
 Toutes les étapes sont à réaliser sur votre environnement Linux.
 
